@@ -1,3 +1,3 @@
 # StructureDataAndAlgorithms
 
-Data Structures and Algorithms: Deep Dive Using Java
+Course of Data Structures and Algorithms: Deep Dive Using Java in Udemy
